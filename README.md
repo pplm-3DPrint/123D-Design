@@ -5,3 +5,5 @@ ref: http://www.3dhoo.com/news/xuetang/23641.html
 ref: http://www.3dhoo.com/news/xuetang/23644.html
 ##Vase
 ref: http://www.3dhoo.com/news/xuetang/23659.html
+##Seal
+ref: http://www.3dhoo.com/news/xuetang/23661.html
